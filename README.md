@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi
+My name is Dima, I'm currently 14 years old and I like programming in Rust
+When I was 10 years old, I started to learn programming with Python
+And when I was 12 years old, I started to learn C++
+Recently I started to learn Rust in system programming
+
+- I’m currently working on my own projects
+- I’m currently learning _openssl_ and _wgpu_
+- I’m looking to collaborate on nobody _(yet)_
 
 <!--
 **SegFaultAt755/SegFaultAt755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
