@@ -1,24 +1,16 @@
-## Hi 👋
-My name is Dima, I'm currently 14 years old and I like programming in Rust
-When I was 10 years old, I started to learn programming with Python
-And when I was 12 years old, I started to learn C++
-Recently I started to learn Rust in system programming
+# 👋 Hi, I'm Dima
+A developer from Kyiv building things with code.
 
-- I’m currently working on my own projects
-- I’m currently learning _openssl_ and _wgpu_
-- I’m looking to collaborate on nobody _(yet)_
+## About me
+- Currently focusing on system programming and creating tool, engines, software which supports other software.
+- Career goal is to become senior in systems and write blazing fast code.
 
-<!--
-**SegFaultAt755/SegFaultAt755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Linux kernel knowledge
+- Basic tools and compilers (`gdb`, `rustc`, `clang`)
+- How compilers optimize code
+- Shell scripting
+- **Python** knowledge at base level
+- **ASM x86** knowledge at _specialist_ level
+- **Rust** knowledge at skilled level
+- **C** knowledge at _specialist_ level
