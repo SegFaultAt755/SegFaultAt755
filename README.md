@@ -1,4 +1,4 @@
-## Hi
+## Hi 👋
 My name is Dima, I'm currently 14 years old and I like programming in Rust
 When I was 10 years old, I started to learn programming with Python
 And when I was 12 years old, I started to learn C++
