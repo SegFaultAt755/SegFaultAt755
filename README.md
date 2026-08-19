@@ -1,19 +1,13 @@
-# 👋 Hi, My name is Dima
-I like develop or optimize things in low-level languages. My timezone is from Kyiv (+3 hours from UTC)
-I like low-level coding more but also can do much more in programming, such as software development, gamedev, etc.
+<div align="center">
 
-## About me
-- Focusing on system programming and creating tool, engines, software which supports other software.
-- Career goal is to become senior in systems and write blazing fast code.
+![NAME-ART](./name-art.svg)
 
-## Skills
-- Linux kernel knowledge
-- Tools, compilers, linkers (`gdb`, `git`, `rustc`, `clang`, etc.)
-- How compilers optimize code and what destroys blazing fast code
-- Shell scripting
+### Operating Systems • Critical Performance • Low-level Systems
 
-## Programming Languages
-- Python knowledge at base level, also with core libraries (`time`, `os`, `sys`, etc.)
-- ASM x86/x64 (NASM) knowledge at base level, also with linux syscalls
-- Rust knowledge at skilled level
-- C99 and C++17 knowledge at base level with standard libraries
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=700&lines=High-Throughput+Systems+Architect;Non-Trivial+Profiling+%26+Optimization;Rust+%26+C%2B%2B+Native+Extensions;Built+a+Custom+Operating+System;Linux+Architecture+%26+Internals" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,powershell,linux,windows,arch,vim,docker,git,vscode,cmake" />
+</p>
+
+</div>
