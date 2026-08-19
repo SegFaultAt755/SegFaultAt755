@@ -19,7 +19,7 @@ jobs:
           card: stats
           options: 'bg_color=0D1117&title_color=d8b4fe&text_color=e9d5ff&icon_color=c084fc&show_icons=true'
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
           
       - name: Generate Langs Card
         uses: soulteary/github-readme-stats-action@v1.0.0
@@ -27,7 +27,7 @@ jobs:
           card: top-langs
           options: 'bg_color=18002e&title_color=d8b4fe&text_color=e9d5ff&icon_color=c084fc&layout=compact'
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Commit Push Changes
         run: |
