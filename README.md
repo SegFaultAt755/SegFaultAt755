@@ -10,4 +10,17 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,powershell,linux,windows,arch,vim,docker,git,vscode,cmake" />
 </p>
 
+---
+
+# About Me
+
+Systems programmer passionate about low-level engineering, operating system internals, and performance tuning for backend servers, tools, engines
+
+* **Key Achievement:** Built a working **custom Operating System** from scratch with support for userspace and system calls
+* **Primary Stack:** Rust *(Advanced / Primary)* • C99 & C++17 *(Advanced)* • x86/x64 Assembly *(NASM)* • Python • Shell
+* **Broader Languages & Tools:** Java • JavaScript • Powershell • CMake • Makefile
+* **Systems & Tooling:** OS Architecture & Kernel Space • Linux Internals & Syscalls • Compilers • Linkers • Debug tools • Git
+* **Optimization:** Deep understanding of compiler behavior, hardware execution pipelines, and non-trivial performance profiling
+* **Goal:** Senior Systems Engineer focused on low-latency, high-throughput software architecture
+
 </div>
