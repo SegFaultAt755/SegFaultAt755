@@ -14,14 +14,19 @@
 
 # About Me
 
-Systems programmer passionate about low-level engineering, operating system internals, and performance tuning for backend servers, tools, engines
+I am a systems programmer specializing in low-level engineering and high-throughput architecture. My work centers on bridging abstract software goals with hardware realities to build predictable, and highly efficient systems. Rather than simply chasing raw speed, my philosophy prioritizes structural integrity, security, and deep performance tuning engineering software that thrives under demanding workloads
 
-* **Key Achievement:** Built a working **custom Operating System** from scratch with support for userspace and system calls
-* **Primary Stack:** Rust *(Advanced / Primary)* • C99 & C++17 *(Advanced)* • x86/x64 Assembly *(NASM)* • Python • Shell
-* **Broader Languages & Tools:** Java • JavaScript • Powershell • CMake • Makefile
-* **Systems & Tooling:** OS Architecture & Kernel Space • Linux Internals & Syscalls • Compilers • Linkers • Debug tools • Git
-* **Optimization:** Deep understanding of compiler behavior, hardware execution pipelines, and non-trivial performance profiling
-* **Goal:** Senior Systems Engineer focused on low-latency, high-throughput software architecture
+#### Core Technical Stack
+
+* **Primary Languages:** Rust *(Advanced / Primary)*, C99 & C++17 *(Advanced)*, x86/x64 Assembly *(NASM)*, Python, and Shell
+* **Tooling & Build Systems:** Linux Internals, System Calls, Compilers, Linkers, Debuggers, CMake, Makefiles, and Git
+* **Broader Languages:** Java, JavaScript, and PowerShell
+
+#### Engineering Focus & Achievements
+
+* **Flagship Project:** Designed and built a working **custom Operating System** from scratch with full support for userspace execution and system calls
+* **Performance Tuning:** Specialized in non-trivial profiling, compiler behavior analysis, and hardware execution pipeline alignment for low-latency backend engines
+* **Career Goal:** Targetting **Senior Systems Engineer** roles focused on low-latency, high-throughput software architecture
 
 ---
 
