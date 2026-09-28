@@ -41,8 +41,4 @@ I am a systems programmer specializing in low-level engineering and high-through
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SegFaultAt755&background=0D1117&border=c084fc&stroke=c084fc&ring=c084fc&fire=c084fc&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&cb=3" width="75%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SegFaultAt755&bg_color=0D1117&color=BF83FC&line=c084fc&point=e9d5ff&hide_border=true" width="90%" />
-</p>
-
 </div>
